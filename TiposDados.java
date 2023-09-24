@@ -3,7 +3,7 @@ public class TiposDados {
         int idade = 19;
         float salario = 2547.43F;
         short ano = 2023;
-        
+
     }
 
 }
